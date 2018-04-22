@@ -19,6 +19,7 @@ namespace YunLang.SuperD.Model
         public FloorPlanElementTypeData TypeData
         {
             get;
+            private set;
         }
 
         public GameObject GameObject
